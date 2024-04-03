@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @thiagopando
+- 👀 I’m interested in web development, artificial intelligence, and data science.
+- 🌱 I’m currently learning JavaScript frameworks like React.js and Node.js, as well as machine learning algorithms.
+- 💞️ I’m looking to collaborate on open source projects related to web development or AI.
+- 📫 How to reach me: You can reach me via email at thiagobotaro@hotmail.com  or connect with me on https://www.linkedin.com/in/thiagobotaro.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I enjoy solving programming puzzles and exploring new programming languages in my free time.
